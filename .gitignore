@@ -1,1 +1,15 @@
 /target/
+/bin/
+/.settings/
+/src/main/webapp/WEB-INF/classes/*
+*.class
+.classpath
+.project
+
+*.jar
+*.war
+*.ear
+
+
+
+
